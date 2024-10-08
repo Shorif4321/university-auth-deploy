@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Next 2.0\\3 Be a NoSQL Backend Braniac\\15.5 Deploy Project\\deploy on heroku\\logs\\winston\\error\\.fb24b917f09a84564709fcb0aadfc5c54278a1d8-audit.json",
+    "files": [
+        {
+            "date": 1728303870228,
+            "name": "D:\\Next 2.0\\3 Be a NoSQL Backend Braniac\\15.5 Deploy Project\\deploy on heroku\\logs\\winston\\error\\un-2024-07-10-18-error.log",
+            "hash": "090a1e6cf469a9709de0c4f3f631dcbad09f27b60aa4e517a6abf4e7f9b4aecd"
+        },
+        {
+            "date": 1728313076126,
+            "name": "D:\\Next 2.0\\3 Be a NoSQL Backend Braniac\\15.5 Deploy Project\\deploy on heroku\\logs\\winston\\error\\un-2024-07-10-20-error.log",
+            "hash": "349639d2da00b30b9938523966d9e06a62578cb9df015097ed79c603b2f917cc"
+        }
+    ],
+    "hashType": "sha256"
+}
